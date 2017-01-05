@@ -8,5 +8,6 @@ public class Client {
 		System.out.println("hello 3");
 		System.out.println("p2");
 		System.out.println("update 3");
+		System.out.println("spring mvc");
 	}
 }
